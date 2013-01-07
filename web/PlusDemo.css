@@ -1,0 +1,17 @@
+body {
+  background-color: #F8F8F8;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  margin: 0;
+  padding: 15px;
+}
+
+p {
+  margin: 0; padding: 0;
+}
+
+#text {
+  font-family: monospace;
+  font-size: 12px;
+}
