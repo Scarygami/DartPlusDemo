@@ -1,0 +1,42 @@
+Name:  dartplusclient
+Description:  Simple library to access the Google+ REST API in Dart
+
+Usage/Installion:
+
+Go to https://code.google.com/apis/console/ and create a new Project
+Activate the Google+ API in "Services"
+Copy your API Key from "API Access"
+
+
+Add this dependency to your pubspec.yaml
+
+  dependencies:
+    dartplusclient:
+      git: git://github.com/Scarygami/DartPlusDemo.git
+
+Import the library in your dart application:
+
+  import "package:dartplusclient/plus.dart";
+
+Initialize the client with your API Key:
+
+  var plus = new Plus("YOUR API KEY");
+
+See example/PlusDemo.dart for example calls to the API.
+
+
+------------------------
+
+Copyright (c) 2013 Gerwin Sturm, FoldedSoft e.U. / www.foldedsoft.at
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not
+use this file except in compliance with the License. You may obtain a copy of
+the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+License for the specific language governing permissions and limitations under
+the License
