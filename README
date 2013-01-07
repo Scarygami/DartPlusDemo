@@ -26,6 +26,11 @@ See example/PlusDemo.dart for example calls to the API.
 
 See https://developers.google.com/+/api/ for the full API documenation.
 
+Note:
+No authenticated requests supported yet, so calls with userId=me won't work.
+
+Disclaimer:
+Still in very early development, and this is my first real Dart project so things might not work as expected.
 
 ------------------------
 
