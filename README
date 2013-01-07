@@ -24,6 +24,8 @@ Initialize the client with your API Key:
 
 See example/PlusDemo.dart for example calls to the API.
 
+See https://developers.google.com/+/api/ for the full API documenation.
+
 
 ------------------------
 
