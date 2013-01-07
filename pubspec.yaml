@@ -1,2 +1,5 @@
 name:  dartplusclient
 description:  Demonstrating how the Google+ REST API can be accessed in Dart
+version: 0.0.1-dev
+author: Gerwin Sturm (scarygami.net/+)
+
