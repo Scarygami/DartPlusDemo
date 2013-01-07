@@ -1,7 +1,7 @@
 Name:  dartplusclient
 Description:  Simple library to access the Google+ REST API in Dart
 
-Usage/Installion:
+Usage/Installation:
 
 Go to https://code.google.com/apis/console/ and create a new Project
 Activate the Google+ API in "Services"
